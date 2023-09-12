@@ -168,3 +168,4 @@ https://api.unsplash.com/search/photos?client_id=Of1t7lU8XNefq3MOdnjrYYc5Lcn0Y7m
 # image-splash
 # images-splash
 # image-splash
+# vite-images
